@@ -103,7 +103,7 @@ function MyComponent() {
           </div>
           <div className="mt-5 ml-4 text-base leading-6 text-zinc-600 w-[545px] max-md:max-w-full">
             Elevate Your Business: Tailored Mental Health Solutions. Partner
-            with us for top-tier care tailored to your team's needs.
+            with us for top-tier care tailored to your team&apos;s needs.
           </div>
           <div className="mt-10 max-md:max-w-full">
             <div className="flex gap-5 max-md:flex-col max-md:gap-0">
